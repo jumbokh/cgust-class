@@ -1,5 +1,5 @@
 "# cgust-class" 
-
+#### 學術研究倫理教育課程
 *學生帳號是學號，密碼預設學號末5碼。
 
 *必修學生修課5步驟懶人包：https://ethics.moe.edu.tw/news/detail/306/
