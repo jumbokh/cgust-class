@@ -1,5 +1,10 @@
+### Word 
+
+
 "# cgust-class" 
-#### 學術研究倫理教育課程
+#### 學術研究倫理教育課程 文書處理
+* [Youtube](https://www.youtube.com/watch?v=FaEIxjS7jmE)
+
 *學生帳號是學號，密碼預設學號末5碼。
 
 *必修學生修課5步驟懶人包：https://ethics.moe.edu.tw/news/detail/306/
