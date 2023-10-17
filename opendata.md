@@ -6,7 +6,7 @@
 * ![空氣品質指標(AQI)概況](https://github.com/jumbokh/DataScience_1082/blob/master/images/pm25-2.JPG)
 * Step 4. 空氣品質指標(AQI)概況
 * ![空氣品質指標(AQI)概況 API](https://github.com/jumbokh/DataScience_1082/blob/master/images/pm25-3.JPG)
-* Step 5. API:  https://data.epa.gov.tw/api/v1/aqx_p_432?format=json&limit=5&api_key=600ffe85-9538-4c91-a161-5a8d004297ec
+* Step 5. API: https://data.moenv.gov.tw/api/v2/aqx_p_432?offset=0&limit=1000&api_key=your-api-key
 * ![API](https://github.com/jumbokh/DataScience_1082/blob/master/images/pm25-4.JPG)
 * Step 6. 查看 API 取得資料結果
 * ![Data](https://github.com/jumbokh/DataScience_1082/blob/master/images/pm25-5.JPG)
