@@ -11,5 +11,5 @@
 * Step 6. 查看 API 取得資料結果
 * ![Data](https://github.com/jumbokh/DataScience_1082/blob/master/images/pm25-5.JPG)
 * 使用 線上解析工具查看資料: [Json Viewer](https://www.sojson.com/simple_json.html)
-* Step 7. 取得 API Key: data.epa.gov.tw
+* Step 7. 取得 API Key: https://data.moenv.gov.tw/
 * ![key](https://github.com/jumbokh/DataScience_1082/blob/master/images/pm25-7.jpg)
