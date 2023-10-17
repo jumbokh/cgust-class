@@ -6,7 +6,7 @@
 * [Word練習](https://github.com/jumbokh/cgust-class/tree/main/docs/Word#readme)
 ##
 ### [臺灣行政區人口列表](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
-
+### [政府開放資料](https://github.com/jumbokh/cgust-class/blob/main/opendata.md)
 #### 學術倫理與數位學習 
 *學生帳號是學號，密碼預設學號末5碼。
 
