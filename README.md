@@ -3,10 +3,11 @@
 
 "# cgust-class" 
 #### word 文書處理 [No. 1](https://drive.google.com/drive/folders/1sBXoQQ48hqaroQjTUEsqQJXOBh3hyZXN?usp=drive_link)
-* [丙級術科](https://github.com/jumbokh/cgust-class/blob/main/docs/%E4%B8%99%E7%B4%9A%E8%A1%93%E7%A7%91%E8%A9%A6%E9%A1%8C.pdf)
-* [No.1 Youtube](https://www.youtube.com/watch?v=FaEIxjS7jmE)
-* [題組一](https://github.com/jumbokh/cgust-class/blob/main/docs/%E9%A1%8C%E7%B5%84%2001.zip)
+* [Word練習](https://github.com/jumbokh/cgust-class/tree/main/docs/Word#readme)
 ##
+### [power BI 下載](https://powerbi.microsoft.com/zh-tw/downloads/)
+### [臺灣行政區人口列表](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
+### [政府資料開放平台](https://github.com/jumbokh/cgust-class/blob/main/opendata.md)
 #### 學術倫理與數位學習 
 *學生帳號是學號，密碼預設學號末5碼。
 
