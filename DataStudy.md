@@ -2,7 +2,7 @@
 請分別儲存 .pbix 檔案, 再一起壓縮成: 學號+姓名.zip, 如: 99999999謝坤達.zip
 
 ### Q1
-#### 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020) 
+#### 請依高雄市民宿資料, 製作查詢報表。[高雄市民宿資料](https://data.gov.tw/dataset/155492)
 ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
 ### Q2
 #### 請于維基百科抓取台灣區人口.[臺灣行政區人口列表](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
