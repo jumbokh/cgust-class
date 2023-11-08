@@ -12,6 +12,6 @@
 #### [招生率](https://www.jctv.ntut.edu.tw/downloads/112/union42/112_up01.pdf)
 * 1. 請過濾資料並分析: 國立高雄科技大學 電機與電子群電機類: 錄取分數 招生名額 錄取人數
   2. 折線圖, 依分數排列+錄取資料
-### Q4
+### Q4 [參考步驟](https://github.com/jumbokh/cgust-class/blob/main/docs/Q4.pptx)
 #### [空氣品質指標(AQI)](https://data.gov.tw/dataset/151824)
 #### 試著分析資料, 表現方式自行決定
