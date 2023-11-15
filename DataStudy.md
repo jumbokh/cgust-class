@@ -4,6 +4,7 @@
 ### Q1
 #### 請依高雄市民宿資料, 製作查詢報表。[高雄市民宿資料](https://data.gov.tw/dataset/155492)
 ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
+![Q1pic](https://github.com/jumbokh/cgust-class/blob/main/docs/Q1pic.png)
 ### Q2
 #### 請于維基百科抓取台灣區人口.[臺灣行政區人口列表](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
 * 1. 倒出資料表
