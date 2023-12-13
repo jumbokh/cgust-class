@@ -1,3 +1,5 @@
+### [notepad++](https://notepad-plus-plus.org/downloads/)
+### [pdf xchange](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)
 ### [colab](https://colab.research.google.com/)
 ### [11/8 自主學習題目](https://github.com/jumbokh/cgust-class/blob/main/DataStudy.md)
 ### Word 
