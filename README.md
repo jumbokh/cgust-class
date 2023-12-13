@@ -1,3 +1,13 @@
+```
+id='A123456789'
+x=id[0]
+x.isalpha()
+
+y=id[1:]
+y.isdigit()
+
+print(x,y)
+```
 ### [notepad++](https://notepad-plus-plus.org/downloads/)
 ### [pdf xchange](https://pdf-xchange.eu/pdf-xchange-editor/index.htm)
 ### [colab](https://colab.research.google.com/)
