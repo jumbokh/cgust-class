@@ -1,3 +1,4 @@
+### [colab](https://colab.research.google.com/)
 ### [11/8 自主學習題目](https://github.com/jumbokh/cgust-class/blob/main/DataStudy.md)
 ### Word 
 
